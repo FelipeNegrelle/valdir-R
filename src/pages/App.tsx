@@ -18,7 +18,9 @@ function App() {
       </p>
     </span>
     </section>
-    <a href='../'>Ouça aqui!</a>
+    <a href='./Ouvir.tsx'>Ouça aqui!</a>
+
+
     <Footer />
     </>
 
